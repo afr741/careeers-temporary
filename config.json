@@ -1,0 +1,181 @@
+{
+	"use_mouse": true,
+	"attract_screen_seconds": 120,
+	"title": "Title goes here",
+	"subtitle": "Subtitle goes here",
+	"instructions": "Tap anywhere on the screen to start",
+
+	"quizData": [
+		{
+			"question": "How would you like to start your work day?",
+			"answers": [
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/coffee.png",
+					"text": "Sit down at your desk with a nice, hot beverage, and fire up your computer",
+					"tag": "desk"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/tools.png",
+					"text": "You start building, assembling or dismantling something",
+					"tag": "hangar"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/location.png",
+					"text": "You are on the move, going from place to place or site to site",
+					"tag": "move"
+				}
+
+			]
+		},
+		{
+			"question": "How social do you want your job to be?",
+			"answers": [
+				{
+					"iconType": "/assets/Art/Images/answer_icons/coffee.png",
+					"text": "I love meeting and interacting with people at work all day",
+
+					"tag": "people"
+				},
+				{
+					"iconType": "/assets/Art/Images/answer_icons/chat.png",
+					"text": "I�m much happier being left on my own to focus",
+					"tag": "alone"
+				}
+
+
+			]
+		},
+		{
+			"question": "Do you like your head in the clouds or your feet firmly on the ground??",
+			"answers": [
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/coffee.png",
+					"text": "Sit down at your desk with a nice, hot beverage, and fire up your computer",
+					"tag": "sky"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/tools.png",
+					"text": "You start building, assembling or dismantling something",
+					"tag": "ground"
+				}
+
+			]
+		},
+		{
+			"question": "Pick your favourite of these school subjects:",
+			"answers": [
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/coffee.png",
+					"text": "Sit down at your desk with a nice, hot beverage, and fire up your computer",
+					"tag": "math"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/tools.png",
+					"text": "You start building, assembling or dismantling something",
+					"tag": "shop"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/coffee.png",
+					"text": "Sit down at your desk with a nice, hot beverage, and fire up your computer",
+					"tag": "art"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/tools.png",
+					"text": "You start building, assembling or dismantling something",
+					"tag": "computer"
+				}
+			
+
+
+			]
+		},
+		{
+			"question": "Do you enjoy meeting new people or working with people you know well?",
+			"answers": [
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/coffee.png",
+					"text": "Sit down at your desk with a nice, hot beverage, and fire up your computer",
+					"tag": "customers"
+				},
+				{
+					"video_path": "uploads/191126_OrcaLab_RoughCut1_v2.mp4",
+					"srt_path": "/uploads/video.srt",
+					"iconType": "/assets/Art/Images/answer_icons/tools.png",
+					"text": "You start building, assembling or dismantling something",
+					"tag": "internal"
+				}
+			
+
+			]
+		}
+	],
+	"resultCombo": [
+		{
+			"combo": [ "desk", "people", "sky", "math", "customers" ],
+			"jobs": [
+				{ "title":"Engineer" },
+				{ "title": "Cybersecurity specialist" },
+				{ "title":"Security analyst" }
+			]
+		},
+		{
+			"combo": [ "hangar", "alone", "ground", "shop", "internal" ],
+			"jobs": [
+				{ "title": "Mechanic" },
+				{"title": "Pilot"},
+				{"title": "Dispatcher"}
+			] 
+		},
+		{
+			"combo": [ "move", "alone", "ground", "art", "internal" ],
+			"jobs": [
+				{
+					"title": "Instructor"
+				},
+				{
+					"title": "Painter"
+				},
+				{ "title": "Engineer" }
+			]
+
+		}
+	],
+	"jobDescriptions": {
+		"AirTraffic": "Aerospace control operators direct air traffic in a given airspace and control the movement of airplanes and land vehicles over the movement and maneuvering area of ​an aerodrome. They provide pilots with the flight information necessary to ensure the safety of the air movement.",
+		"Project": "The Project Coordinator reports to the Hangar Operations Manager. The role focuses on the delivery and coordination of incoming & outgoing projects within the assigned hangar(s) at KF Aerospace to support the successful management of the portfolio of projects. Project Coordinators are responsible for creating Project Packages & all associated documents (and updating them as required), supporting the project supervisor in the management of core project activities with an emphasis on scope, schedule and cost management, and administering post- production package changes. Depending on the hangar, the Project Coordinator may also assist in line maintenance requirements, and/or customer specific administration tasks.",
+		"Admin": "This role is responsible for creating and maintaining project records, controlling legal documentation for an aircraft, entering data in accordance with Transport Canada regulations, and generating daily customer reports for on-site customer representatives. The Hangar Administration role is largely administrative and will appeal to those who prefer a structured work environment.",
+		"Mechanic": "mechanic text description blablabal",
+		"Dispatcher": "dispatcher text descriptioonbbalbvalb",
+		"Pilot": "pilot text description blabla",
+		"Painter": "painter text description blabla",
+		"Instructor": "instuctior blalvbabalba",
+		"Engineer": "iengiener job derscription blblabalb",
+		"Cybersecurity specialist": "iengiener job derscription blblabalb",
+		"Security analyst": "iengiener job derscription blblabalb"
+
+
+	}
+}
+
+
+

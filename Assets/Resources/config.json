@@ -1,0 +1,34 @@
+{
+	"use_mouse" : true,
+	"attract_screen_seconds" : 120,
+	"initial_item" : 2,
+	"shift" : 0,
+	"title" : "Coming soon in 2020:<br>a platform for us to learn and share together",
+	"identity" : "company identity",
+	"instructions" : "Tap to explore",
+	"items" : [
+		{
+		"title" : "Our Company",
+		"subtitle" : "Roche: Doing now what patients need\u00A0next",
+		"details" : "Our purpose is 'doing now what patients need next'.  Roche has a history of advancing the field of medicine and bringing novel treatments and diagnostics to patients.  It is what we do and why we come to work each day.",	
+		},
+		{
+		"title" : "Events",
+		"subtitle" : "Recognizing and Celebrating Milestones",
+		"details" : "There are many events and milestones to celebrate that will continue to bring us together, ignite innovation and remind us how we can make a difference.",
+		},
+		{
+		"title" : "Patient Stories",
+		"subtitle" : "Delivering our North Star:  Better outcomes for more patients faster",
+		"details" : "The patient is at the core of everything we do.  They are why we come to work each day.  Sharing patient stories and the impact of our efforts is inspirational.",	
+		},
+		{
+		"title" : "Employees",
+		"subtitle" : "A passion for purpose",
+		"details" : "As Roche employees, we have so much to share and learn from each other - our successes, lessons learned, bold ideas, in addition to who we are and what inspires us.",	
+		}
+	],
+}
+
+
+

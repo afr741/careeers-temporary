@@ -1,0 +1,406 @@
+﻿{
+  "data": [
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939065,
+      "name": "01: Attract Screen ",
+      "text": [
+        {
+          "content": "",
+          "label": "Attract Screen Animation"
+        },
+        {
+          "content": "CAREERS IN AVIATION",
+          "label": "Header"
+        },
+        {
+          "content": "What role is best for you?",
+          "label": "Tagline"
+        },
+        {
+          "content": "Touch the screen to start the quiz",
+          "label": "Instructions"
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939067,
+      "name": "02: Introduction Screen",
+      "text": [
+        {
+          "content": "WHAT COULD YOU BECOME?",
+          "label": "Title"
+        },
+        {
+          "content": "THERE'S A GROWING NEED FOR PEOPLE, FROM GROUND TO SKY",
+          "label": "Subtitle"
+        },
+        {
+          "content": "Aviation touches every part of our lives. Travel for work and fun. Mail, food, and supply deliveries to big cities and small towns. Global trade. Security and peacekeeping. Saving lives with air ambulances and rescue missions. And so much more.",
+          "label": "Body "
+        },
+        {
+          "content": "START THE CAREER QUIZ NOW",
+          "label": "CTA"
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939068,
+      "name": "03: Question 1",
+      "text": [
+        {
+          "content": "01",
+          "label": "Page Number"
+        },
+        {
+          "content": "HOW WOULD YOU LIKE TO START YOUR WORK DAY?",
+          "label": "Header"
+        },
+        {
+          "content": "Sit down at your desk with a nice, hot beverage, and fire up your computer.",
+          "label": "Copy - Option 1 "
+        },
+        {
+          "content": "You start building, assembling, or dismantling something.",
+          "label": "Copy - Option 2 "
+        },
+        {
+          "content": "You start building, assembling, or dismantling something.",
+          "label": "Copy - Option 3"
+        },
+        {
+          "content": "N/A",
+          "label": "Copy - Option 4 "
+        },
+        {
+          "content": "NEXT",
+          "label": "CTA - NEXT"
+        },
+        {
+          "content": "RESTART",
+          "label": "CTA - Restart "
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939069,
+      "name": "04: Question 2 ",
+      "text": [
+        {
+          "content": "02",
+          "label": "Page Number"
+        },
+        {
+          "content": "HOW SOCIAL DO YOU WANT YOUR JOB TO BE?",
+          "label": "Header"
+        },
+        {
+          "content": "I love meeting and interacting with people at work all day. ",
+          "label": "Copy - Option 1 "
+        },
+        {
+          "content": "I’m much happier being left on my own to focus.",
+          "label": "Copy - Option 2 "
+        },
+        {
+          "content": "n/a",
+          "label": "Copy - Option 3"
+        },
+        {
+          "content": "n/a",
+          "label": "Copy - Option 4 "
+        },
+        {
+          "content": "NEXT",
+          "label": "CTA - NEXT"
+        },
+        {
+          "content": "RESTART",
+          "label": "CTA - Restart "
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939071,
+      "name": "05: Question 3",
+      "text": [
+        {
+          "content": "03",
+          "label": "Page Number"
+        },
+        {
+          "content": "DO YOU LIKE YOUR HEAD IN THE CLOUDS OR YOUR FEET FIRMLY ON THE GROUND?",
+          "label": "Header"
+        },
+        {
+          "content": "I want to spend time in the sky. ",
+          "label": "Copy - Option 1 "
+        },
+        {
+          "content": "I would rather remain on solid ground. ",
+          "label": "Copy - Option 2 "
+        },
+        {
+          "content": "N/A",
+          "label": "Copy - Option 3"
+        },
+        {
+          "content": "N/A",
+          "label": "Copy - Option 4 "
+        },
+        {
+          "content": "NEXT",
+          "label": "CTA - NEXT"
+        },
+        {
+          "content": "RESTART",
+          "label": "CTA - Restart "
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939072,
+      "name": "06: Question 4",
+      "text": [
+        {
+          "content": "04",
+          "label": "Page Number"
+        },
+        {
+          "content": "PICK YOUR FAVORITE OF THESE SCHOOL SUBJECTS:",
+          "label": "Header"
+        },
+        {
+          "content": "Math",
+          "label": "Copy - Option 1 "
+        },
+        {
+          "content": "Shop",
+          "label": "Copy - Option 2 "
+        },
+        {
+          "content": "Art",
+          "label": "Copy - Option 3"
+        },
+        {
+          "content": "Social Studies",
+          "label": "Copy - Option 4 "
+        },
+        {
+          "content": "NEXT",
+          "label": "CTA - NEXT"
+        },
+        {
+          "content": "RESTART",
+          "label": "CTA - Restart "
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13939073,
+      "name": "07: Question 5",
+      "text": [
+        {
+          "content": "05",
+          "label": "Page Number"
+        },
+        {
+          "content": "DO YOU ENJOY MEETING NEW PEOPLE OR WORKING WITH PEOPLE YOU KNOW WELL?",
+          "label": "Header"
+        },
+        {
+          "content": "I prefer to know lots of new people.",
+          "label": "Copy - Option 1 "
+        },
+        {
+          "content": "I prefer to work with people I already know.",
+          "label": "Copy - Option 2 "
+        },
+        {
+          "content": "N/A",
+          "label": "Copy - Option 3"
+        },
+        {
+          "content": "N/A",
+          "label": "Copy - Option 4 "
+        },
+        {
+          "content": "NEXT",
+          "label": "CTA - NEXT"
+        },
+        {
+          "content": "RESTART",
+          "label": "CTA - Restart "
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13943183,
+      "name": "08: Results Screen",
+      "text": [
+        {
+          "content": "THE RESULTS ARE IN, GREAT CAREERS FOR YOU ARE:",
+          "label": "Page Heading"
+        },
+        {
+          "content": "BACK TO THE START",
+          "label": "Back to Start Button"
+        },
+        {
+          "content": "TO SEE CURRENT JOB POSTINGS VISIT KFAERO.CA/CAREERS OR FOLLOW THE QR CODE:",
+          "label": "Page Sub header"
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13943197,
+      "name": "xx: Job Descriptions",
+      "text": [
+        {
+          "content": "AIR TRAFFIC CONTROLLER",
+          "label": "Job Title 01"
+        },
+        {
+          "content": "Calm, calculated, and sure-footed, you are not easily unnerved. Your love of math and geometry helps you direct airplanes' movement via your control space. As part of a team, you communicate with aircraft crews to ensure everyone's safety, in the air and on the ground.",
+          "label": "Body Copy - Job 01"
+        },
+        {
+          "content": "PROJECT COORDINATOR",
+          "label": "Title Job 02"
+        },
+        {
+          "content": "A clear communicator, you keep projects running smoothly. You work with a team to ensure many moving parts work together to deliver the project soon time and in budget. Your people skills are fine tuned — you work with everyone to document progress and manage change.",
+          "label": "Body Copy - Job 02"
+        },
+        {
+          "content": "HANGAR SUPPORT, PARTS COUNTER",
+          "label": "Title Job 03"
+        },
+        {
+          "content": "You're a people person with natural organization skills — you like everything to be in the right place at the right time. In the hangar, you flex your skills by ensuring that everyone has the right parts, materials, and tools to get the job done.",
+          "label": "Body Copy - Job 03"
+        },
+        {
+          "content": "AIRCRAFT PAINTER ",
+          "label": "Title Job 04"
+        },
+        {
+          "content": "You love colours, typography, graphics, and working with your hands. This role draws on your great dexterity and attention to detail. You prepare, paint, and mark aircraft and aerospace components. This includes newly manufactured and repainted aircraft.",
+          "label": "Body Copy - Job 04"
+        },
+        {
+          "content": "HANGAR ADMINISTRATOR",
+          "label": "Title Job 05"
+        },
+        {
+          "content": "You like structure and get great satisfaction from dotting i's and crossing t's. You create and maintain project records. Control legal documentation for planes. And make sure all data is collected and stored for clients and regulators.",
+          "label": "Body Copy - Job 05"
+        },
+        {
+          "content": "AEROSPACE ENGINEER",
+          "label": "Title Job 06"
+        },
+        {
+          "content": "If you dream of designing and building machines that fly this career is for you. Your mathematical mind and love of experimentation will help you design, test, and improve aircraft and even spacecraft.",
+          "label": "Body Copy - Job 06"
+        },
+        {
+          "content": "SUPPLY CHAIN",
+          "label": "Title Job 7"
+        },
+        {
+          "content": "You support maintenance, engineering, and flight operations. Plane parts and materials arrive at the right place and time thanks to you. Your strong organization and planning skills serve you well. Especially when using hi-tech systems to track materials across projects.",
+          "label": "Body Copy - Job 07"
+        },
+        {
+          "content": "LICENCED MECHANIC",
+          "label": "Title Job 08"
+        },
+        {
+          "content": "You have a steady hand and a careful eye. A trained expert, you enjoy working in the hangars. There, you inspect, maintain, and repair a variety of aircraft. This hands-on job engages your detailed knowledge of these complex and fascinating machines.",
+          "label": "Body Copy - Job 08"
+        },
+        {
+          "content": "STRUCTURES TECHNICIAN",
+          "label": "Title Job 09"
+        },
+        {
+          "content": "You excel at working with aircraft materials and metals. Working with tools, machines, and equipment is your jam — you quickly pick up new ways of working with them. You make repairs and even fabricate new parts to keep aircraft strong and skyworthy.",
+          "label": "Body Copy - Job 09"
+        },
+        {
+          "content": "AIRCRAFT MAINTENANCE ENGINEER",
+          "label": "Title Job 10"
+        },
+        {
+          "content": "You are a problem-solver who thinks with your hands as well as your head. Your calm, methodical mind enjoys solving problems — troubleshooting plane modifications and repairs, and doing inspections. You know and love planes inside and out.",
+          "label": "Body Copy - Job 10"
+        },
+        {
+          "content": "AIRLINE AND COMMERCIAL PILOT",
+          "label": "Title Job 11"
+        },
+        {
+          "content": "Your love of travel is only exceeded by your care for your passengers and plane. You make flight plans, do pre-flight checks, and keep an eye on the weather. Safety is a priority. You can make quick decisions in serious situations. You're passionate about flying.",
+          "label": "Body Copy - Job 11"
+        },
+        {
+          "content": "FLIGHT INSTRUCTOR",
+          "label": "Title Job 12"
+        },
+        {
+          "content": "Patient, you like working with people. You make complex subjects easy to understand and like teaching students how to fly in challenging conditions. From live flight training to textbooks and simulators, you use many tools to help your students become licensed pilots. ",
+          "label": "Body Copy - Job 12"
+        },
+        {
+          "content": "AIRCRAFT DISPATCHER",
+          "label": "Title Job 13"
+        },
+        {
+          "content": "You're a planner and love preparing for any occasion. You research the best flight paths and work with flight crews to develop efficient flight plans. Your knowledge of the environment, weather, and fuel needs ensure a safe and efficient flight for all. ",
+          "label": "Body Copy - Job 13"
+        },
+        {
+          "content": "AIRCRAFT INTERIOR TECHNICIAN ",
+          "label": "Title Job 14"
+        },
+        {
+          "content": "You enjoy fixing things and doing renovations. Realistic, yet enterprising, you work on all parts of aircraft interiors, from seats to sound proofing and lighting to cabinets. Your strong mechanical skills and talent with tools help you perform this specialized work.",
+          "label": "Body Copy - Job 14"
+        }
+      ]
+    },
+    {
+      "foldername": "KFA-CE ",
+      "id": 13961373,
+      "name": "xx: Restart Popup",
+      "text": [
+        {
+          "content": "ARE YOU SURE YOU WANT TO RESTART?",
+          "label": "Header Text"
+        },
+        {
+          "content": "Your progress won't be saved.",
+          "label": "Body Text"
+        },
+        {
+          "content": "RESTART",
+          "label": "Left CTA"
+        },
+        {
+          "content": "KEEP GOING",
+          "label": "Right CTA"
+        }
+      ]
+    }
+  ]
+}

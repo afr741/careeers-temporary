@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: fe6bc490e387a8e48abb9187a6a23942
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geometrica
+  fontNames:
+  - Geometrica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 789634a2ee2fc1c4287ed47f219a43e5, type: 3}
+  - {fileID: 12800000, guid: 1943df4375492bc4c8e2749f8b5b44a5, type: 3}
+  - {fileID: 12800000, guid: b31af68306e3b8147b98977b1a07b466, type: 3}
+  - {fileID: 12800000, guid: 4126e29357ddaa14d8b38a17b452ac4f, type: 3}
+  - {fileID: 12800000, guid: 63869c149f92fee419731f083f776e53, type: 3}
+  - {fileID: 12800000, guid: e1444ca4e4e716640a74a5a13f7c19ce, type: 3}
+  - {fileID: 12800000, guid: 6c7199755bb0eff47805e1464cba652d, type: 3}
+  - {fileID: 12800000, guid: b9e10447a8a5f43439f6eef1d64b772b, type: 3}
+  - {fileID: 12800000, guid: 8c4d0d6751e0f994c86cc6776b1d0734, type: 3}
+  - {fileID: 12800000, guid: 901b5fa8ec1bfc247b46ce84212a23e0, type: 3}
+  - {fileID: 12800000, guid: 5b300eb8eacfee649a2f28bb833e47fa, type: 3}
+  - {fileID: 12800000, guid: 9fad280a98336bf459052ee394231676, type: 3}
+  - {fileID: 12800000, guid: 6618c77b771edbd479a044d0021c030d, type: 3}
+  - {fileID: 12800000, guid: b15dbceb6276b0144a7a1f57154d63f3, type: 3}
+  - {fileID: 12800000, guid: 0ed727fb3d8798342a31d42e10c91352, type: 3}
+  - {fileID: 12800000, guid: 20f7990c6d8a2b7468dd283e4266388a, type: 3}
+  - {fileID: 12800000, guid: 53339f1d23a33d542830681fe25b9fb9, type: 3}
+  - {fileID: 12800000, guid: 3eb0cd6d91a401649b937135333c767d, type: 3}
+  - {fileID: 12800000, guid: 2f92b7bd1c94bf94ca4bbfb136bffa21, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
